@@ -1,3 +1,5 @@
+![compile-master-focal_fossa](https://github.com/alderocas/FBReader/workflows/compile-master-focal_fossa/badge.svg)
+
 This is a very short description of FBReader build procedure.
 
 1. Compiler.
